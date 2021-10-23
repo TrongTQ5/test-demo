@@ -1,0 +1,100 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    /* margin: 0 auto !important; */
+    width: 375px;
+    font-size: 16px;
+}
+
+.signup-text {
+    border: 1px solid #000;
+    background: #21252B;
+    color: #fff;
+    padding: 0 7px;
+}
+
+.head-form {
+    height: 155px;
+}
+
+.head-form > p {
+    margin-top: 3.2em;
+} 
+
+.head-big {
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 2.5em;
+    margin-left: .3em;
+}
+
+.head-small {
+    font-size: 13px;
+    text-align: right;
+}
+
+.form-label {
+    font-size: 13px;
+    color: #9CA5B4;
+}
+
+.form-control {
+    width: 335px;
+    height: 50px;
+}
+
+.instruction {
+    font-size: 13px;
+    color: #5E656F;
+    margin-bottom: 2.5em;
+}
+
+.instruction-2nd {
+    font-size: 13px;
+    color: #9CA5B4;
+    padding-bottom: 10px;
+}
+
+.instruction-3rd {
+    font-size: 13px;
+    color: #9CA5B4;
+    margin-bottom: 2.5em;
+}
+
+.form-check {
+    margin-left: .8em;
+}
+
+.bt-signup {
+    margin-bottom: 10px;
+    width: 335px;
+    height: 50px;
+}
+
+.text-or {
+    color: #9CA5B4;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.signupgg {
+    background: #181A1F;
+    color: #fff;
+    width: 335px;
+    height: 50px;
+    border: #181A1F;
+    margin-bottom: 2.5em;
+}
+
+.foot-form {
+    color: #9CA5B4;
+    margin-bottom: 22px;
+    text-align: center;
+    border-radius: 2px;
+}
+
+

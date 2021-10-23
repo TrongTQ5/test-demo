@@ -1,0 +1,244 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.font-black {
+    color: #000;
+}
+
+body {
+    width: 1920px;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    margin: 100% auto;
+}
+
+
+/* style nav */
+header {
+    margin-top: 5em;
+    margin-bottom: 12.5em;
+}
+
+.head-cen {
+    justify-content: center;
+}
+
+.nav-menu > a {
+    color: #363636;
+    text-align: right;
+}
+
+.nav-menu > a:hover {
+    color: #E7E7E7;
+}
+
+
+.background-logo {
+    display: inline-block;
+    background-color: #4A4A4A;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+
+    position: relative;
+}
+
+.background-logo > a > h2 {
+    font-size: 16px;
+    position: absolute;
+    color: #DADADA;
+
+    left: 20px;
+    top: 14px;
+}
+
+.left-head > span {
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 1em;
+}
+
+.boder-blog {
+    padding-right: 2em;
+    border-right: 1px solid #E7E7E7;
+}
+
+.fab {
+    color: #9B9B9B;
+    font-size: 16px;
+    margin-top: 18px;
+    margin-right: 20px;
+}
+
+.fa-medium {
+    margin-left: 30px;
+}
+
+/* style main */
+.winter-text {
+    width: 1280px;
+    /* height: 2925px; */
+    border-bottom: 1px solid black;
+}
+
+.title {
+    width: 780px;
+    height: 122px;
+    margin: 0 auto;
+}
+
+.title > h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.875em;
+    color: #1E1E1E;
+}
+
+.sup-title {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 0;
+    padding-right: 1em;
+    margin-top: 2em;
+    margin-bottom: 5em;
+}
+
+.sup-title li {
+    font-size: .875em;
+    margin-left: 2.5em;
+    color: #9B9B9B;
+}
+
+.first-li {
+    list-style: none;
+    margin-left: 0;
+}
+
+.image-winter {
+    margin-bottom: 3em;
+}
+
+.image-winter img {
+    width: 1287px;
+}
+
+.text-head {
+    margin-bottom: 1em;
+    font-size: 1.625em;
+    font-weight: bold;
+}
+
+.text-2st {
+    height: 240px;
+    background: #FAFAFA;
+    margin-bottom: 5em;
+}
+
+
+
+.lorem-text > h2 {
+    font-weight: 900;
+    font-style: italic;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 2.5em;
+}
+
+.caption p {
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.text-head > h2 {
+    font-size: 1.625em;
+    font-weight: bold;
+}
+
+.text-3rd {
+    margin-bottom: 5.8em;
+}
+
+/* Style top footer */
+.p-left, .p-right {
+    color: #4A4A4A;
+}
+
+main {
+    margin-bottom: 4em;
+}
+
+.p-right {
+    text-align: right;
+}
+
+.but-show {
+    text-align: center;
+}
+
+.button-show {
+    width: 361px;
+    height: 60px;
+    background-color: #fff;
+    margin-top: 80px;
+    margin-bottom: 120px;
+    border: 1px solid #E9E9E9;
+    border-radius: 50px;
+}
+
+.a-left, .a-right {
+    text-decoration: none;
+    color: #1E1E1E;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.a-right {
+    text-align: right;
+}
+
+/* Style footer */
+footer {
+    margin-bottom: 129px;
+}
+.backgroud-footer {
+    position: relative;
+    margin-top: 131px;
+    text-align: center;
+}
+
+.logo-footer {
+    position: absolute;
+    left: 63em;
+    top: -.8em;
+}
+
+.backgroud-footer > p {
+    position: absolute;
+    font-weight: bold;
+    color: #fff;
+    left: 64em;
+    top: -.7em;
+}
+
+.text-footer > p {
+    display: inline;
+}
+
+.text-footer {
+    text-align: center;
+}
+
+.logo-text {
+    text-align: center;
+    font-size: 59px;
+    margin-bottom: 131px;
+}
+
+.text-bla {
+    color: #9B9B9B;
+}
